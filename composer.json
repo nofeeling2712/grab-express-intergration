@@ -1,0 +1,22 @@
+{
+    "name": "ggg-express/gservice",
+    "description": "Intergrate Grab Express Api",
+    "type": "library",
+    "license": "1.0.0",
+    "authors": [
+        {
+            "name": "Golden Gate Group",
+            "email": "contact@ggg.com.vn"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "GExpress\\GService\\": "src"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "ixudra/curl": "6.20.0",
+        "php": "^7.2.5"
+    }
+}
