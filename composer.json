@@ -2,6 +2,7 @@
     "name": "ggg-express/gservice",
     "description": "Intergrate Grab Express Api",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "Golden Gate Group",
